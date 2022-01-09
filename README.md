@@ -1,2 +1,2 @@
 # hello-world
-My Sample Devops project 24
+My Sample Devops project
